@@ -29,4 +29,4 @@ This project was built using:
 
 ## 👩‍💻 Author
 **Evangeline** **Maddela**
-Beginner Web Developer | Learning HTML, CSS, JS  
+|Beginner Web Developer | Learning HTML, CSS, JS 
