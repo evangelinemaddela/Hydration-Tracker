@@ -23,10 +23,10 @@ This project was built using:
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3 (Flexbox + Grid)**
-- **Vanilla JavaScript**
+- ** JavaScript**
 
 ---
 
 ## 👩‍💻 Author
 **Evangeline** **Maddela**
-|Beginner Web Developer | Learning HTML, CSS, JS 
+| Beginner Web Developer | Learning HTML, CSS, JS 
