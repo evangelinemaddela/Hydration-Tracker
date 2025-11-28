@@ -28,5 +28,5 @@ This project was built using:
 ---
 
 ## 👩‍💻 Author
-**Evangeline**  
+**Evangeline** **Maddela**
 Beginner Web Developer | Learning HTML, CSS, JS  
